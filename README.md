@@ -46,6 +46,12 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" alt="postman" width="40" height="40"/>
   </a>
+   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/1969px-Grafana_icon.svg.png" alt="Grafana" width="40" height="40"/>
+  </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/1969px-Grafana_icon.svg.png](https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png)" alt="swagger" width="40" height="40"/>
+  </a>
 </p>
 
 
