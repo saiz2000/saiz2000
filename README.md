@@ -1,18 +1,18 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Andres saiz</h1>
-<h3 align="center">A creative developer from Colombia</h3>
+<h3 align="center">A Creative It Professional and QA tester</h3>
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif?fit=800%2C474&ssl=1">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiz2000&label=Profile%20views&color=0e75b6&style=flat" alt="saiz2000" /> </p>
 
-- 🔭 I’m currently working on **box mensajeria**
+- 🔭 I’m currently working on **Equinix**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saiz2000](https://github.com/saiz2000)
 
-- 💬 Ask me about **html,bootstrap,css-sass,web layout**
+- 💬 Ask me about **html,bootstrap,css-sass,Web layout, DataBases, Networking, APIs, Monitoring tools, Software Testing, AWS, Active directory, Microdoft 365**
 
 - 📫 How to reach me **saizcortez.5@gmail.com**
 
