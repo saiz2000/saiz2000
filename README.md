@@ -38,7 +38,7 @@
   </a>
   <!-- Add icons for SQL, AWS, and Postman -->
   <a href="https://www.sql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.flaticon.com/free-icon/sql-server_5815809)" alt="sql" width="40" height="40"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/036/044/336/original/sql-database-icon-logo-design-ui-or-ux-app-png.png" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="AWS_ICON_URL_HERE" alt="aws" width="40" height="40"/>
