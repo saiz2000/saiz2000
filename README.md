@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![image](https://github.com/saiz2000/saiz2000/assets/119007083/797d960f-cc6c-47c8-a789-f5dcf2faaf37)[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Andres saiz</h1>
 <h3 align="center">A Creative It Professional and QA tester</h3>
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif?fit=800%2C474&ssl=1">
@@ -41,10 +41,10 @@
     <img src="https://static.vecteezy.com/system/resources/previews/036/044/336/original/sql-database-icon-logo-design-ui-or-ux-app-png.png" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="AWS_ICON_URL_HERE" alt="aws" width="40" height="40"/>
+    <img src="https://media.licdn.com/dms/image/D4D12AQEmC2CSTK0unw/article-cover_image-shrink_600_2000/0/1691964348159?e=2147483647&v=beta&t=UA2DD5lAEDP28NHD9BRZIoriUAdwNxY8P465qku8lNY" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="POSTMAN_ICON_URL_HERE" alt="postman" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" alt="postman" width="40" height="40"/>
   </a>
 </p>
 
