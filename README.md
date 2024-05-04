@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saiz2000](https://github.com/saiz2000)
 
-- 💬 Ask me about **html,bootstrap,css-sass,Web layout, DataBases, Networking, APIs, Monitoring tools, Software Testing, AWS, Active directory, Microdoft 365**
+- 💬 Ask me about **Html, Bootstrap, Css-sass, Web layout, DataBases, Networking, APIs, Monitoring tools, Software Testing, AWS, Active directory, Microdoft 365**
 
 - 📫 How to reach me **saizcortez.5@gmail.com**
 
