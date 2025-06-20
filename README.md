@@ -14,7 +14,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/saiz2000](https://github.com/saiz2000)
 
 ### 📌 Featured Repository
-- [**API-enpoints-creation**](https://github.com/saiz2000/API-enpoints-creation) 
+- [**API-enpoints-creation**](https://github.com/saiz2000/API-enpoints-creation)
+- [**box_website**](https://github.com/saiz2000/box_website)
+- [**simulador_diagnostico_medico**](https://github.com/saiz2000/simulador_diagnostico_medico) 
+
 
 - 💬 Ask me about **Html, Bootstrap, Css-sass, Web layout, DataBases, Networking, APIs, Monitoring tools, Software Testing, AWS, Active directory, Microdoft 365**
 
