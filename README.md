@@ -11,7 +11,7 @@
 ```yaml
 name:       Andres Felipe Saiz
 location:   Bogotá, Colombia 🇨🇴
-role:       Support Engineer @ Equinix
+role:       Devops Engineer @ Equinix
 focus:      Cloud Infrastructure · Automation · Observability · Incident Response
 learning:   Python · Terraform · Kubernetes
 open_to:    DevOps · SRE · Cloud Support · Infrastructure Engineer roles
@@ -65,7 +65,7 @@ contact:    saizcortez.5@gmail.com
 
 | Company | Role | Period |
 |---|---|---|
-| **Equinix** | Intrastructure and Tech support Engineer | Feb 2024 – Present |
+| **Equinix** | DebOps Engineer | Feb 2024 – Present |
 | **Binance** | NOC Engineer L2 — Platform Reliability | Aug 2022 – Feb 2024 |
 | **Binance** | NOC Engineer L1 — Incident Response | Feb 2022 – Aug 2022 |
 | **Tai Software** | Technical Support Engineer L2 / Platform Automation | Aug 2021 – Feb 2022 |
