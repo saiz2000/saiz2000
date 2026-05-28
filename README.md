@@ -11,7 +11,7 @@
 ```yaml
 name:       Andres Felipe Saiz
 location:   Bogotá, Colombia 🇨🇴
-role:       DevOps Engineer @ Equinix
+role:       Support Engineer @ Equinix
 focus:      Cloud Infrastructure · Automation · Observability · Incident Response
 learning:   Python · Terraform · Kubernetes
 open_to:    DevOps · SRE · Cloud Support · Infrastructure Engineer roles
